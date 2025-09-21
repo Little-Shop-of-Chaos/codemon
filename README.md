@@ -10,6 +10,10 @@ Compete in pokémon inspired battles to find out which is the strongest programm
 
 **<a href="https://codemon-rho.vercel.app/" target="_blank">Play it in your browser</a>**
 
+## This is a copy of the original hackathon project
+
+The original 45+ starred project [can be found here](https://github.com/mierdev/codemon).
+
 ## Features
 
 - **Turn-based battles** between programming languages
