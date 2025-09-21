@@ -203,4 +203,4 @@ A Little Shop of Chaos Production
 
 All our projects are released with an [CC0 Open Source License](https://github.com/Little-Shop-of-Chaos/codemon/blob/main/LICENSE)!
 
-One side note: this is ONLY TRUE for the code we've written. All art in this project is protected by Copyright.
+DISCLAIMER: this is ONLY TRUE for the code we've written. **All art in this project is protected by Copyright**.
